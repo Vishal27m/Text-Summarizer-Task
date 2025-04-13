@@ -43,8 +43,8 @@ Built as part of the **AI & ML Internship at Senthuron**, this summarizer tool d
 ## 📁 File Structure
 
 ```
-BART.py                      # Main summarizer script
-BART_Text_Summarizer.ipynb  # Jupyter version (optional)
+Key.py                      # Main summarizer script
+Multilingual-Text-Summarizer.ipynb  # Jupyter version (optional)
 README.md                   # Project documentation
 ```
 
@@ -61,11 +61,11 @@ pip install transformers torch streamlit
 2. **Run the script (CLI/Notebook):**  
 - For Python script:  
   ```bash
-  python BART.py
+  python Key.py
   ```
 - For Streamlit UI (optional):  
   ```bash
-  streamlit run BART.py
+  streamlit run Key.py
   ```
 
 ---
