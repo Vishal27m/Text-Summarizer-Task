@@ -1,8 +1,0 @@
-streamlit
-transformers
-torch
-textstat
-PyPDF2
-python-docx
-docx2txt
-googletrans==4.0.0-rc1
